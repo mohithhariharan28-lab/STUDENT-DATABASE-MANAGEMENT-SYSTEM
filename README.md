@@ -1,5 +1,4 @@
-# STUDENT-DATABASE-MANAGEMENT-SYSTEM
-I# MySQL CLI Application 🐬
+# MySQL CLI Application 🐬
 
 A terminal-based Python application for interacting with a MySQL database. Supports all four SQL command categories — DDL, DML, DCL, and TCL — through an interactive menu, plus a free-form manual query mode.
 
